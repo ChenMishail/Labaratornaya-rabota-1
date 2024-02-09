@@ -1,3 +1,0 @@
-C:/Git/Labaratornaya-rabota-1/NewRes2/CMakeFiles/res2.dir
-C:/Git/Labaratornaya-rabota-1/NewRes2/CMakeFiles/ALL_BUILD.dir
-C:/Git/Labaratornaya-rabota-1/NewRes2/CMakeFiles/ZERO_CHECK.dir
