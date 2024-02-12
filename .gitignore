@@ -1,2 +1,4 @@
-
-Новый текстовый документ.txt
+*.jpg
+!menu.jpg
+/TODO
+build/
