@@ -1,4 +1,4 @@
-*.jpg
-!menu.jpg
-/TODO
-build/
+CMake1/*
+!CMake1/Lab1.cpp
+!CMake1/CMakeLists.txt
+!CMake1/menu.jpg
